@@ -196,6 +196,82 @@ header {
   margin-bottom: 30px;
 }
 
+/* ABOUT MYSELF */
 
+.about-my-self {
+  background-color: white;
+  border-top-right-radius: 70px;
+  padding-bottom: 114px;
+}
+
+.aboutTitle {
+  padding-top: 114px;
+  margin-left: 24px;
+  font-size: 40px;
+  font-weight: 700;
+  color: var(--dark-blue);
+}
+
+.aboutParagraph {
+  font-size: 16px;
+  margin-left: 24px;
+  margin-right: 24px;
+  margin-bottom: 12px;
+  margin-top: 12px;
+  color: var(--dark-blue);
+}
+
+.aboutSocials-links {
+  text-decoration: none;
+  color: var(--lighter-grey);
+  padding-bottom: 28px;
+}
+
+.aboutSee-project {
+  background-color: white;
+  border: 2px solid var(--light-purple);
+  border-radius: 8px;
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--light-purple);
+  padding: 12px;
+  margin-left: 16px;
+  margin-bottom: 48px;
+}
+
+.aboutLang {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 24px;
+}
+
+.aboutLanguage {
+  background-color: var(--background);
+  display: flex;
+  flex-direction: row;
+  margin: 24px;
+  padding: 10px;
+  align-items: center;
+  border-radius: 12px;
+}
+
+.name {
+  padding: 10px;
+  font-weight: 500;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 24px;
+  padding: 24px;
+  border-bottom: 2px solid var(--background);
+}
+
+.wrapper-name {
+  font-size: 20px;
+  font-weight: 500;
+}
 
 
